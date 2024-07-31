@@ -2,8 +2,6 @@
 
 **Introducing eShop**, a full-stack web application built to revolutionize your online shopping experience! Powered by the MERN stack (MongoDB, Express.js, React, Node.js), Redux Toolkit for smooth state management, and the visually stunning Material UI, this project offers a seamless and feature-rich platform for both users and admins.
 
-![ecommerce-homepage](https://res.cloudinary.com/dh5fjdce9/image/upload/v1707365755/front_inhzp9.png)
-
 - **Become a product connoisseur:** Write, edit, and delete reviews with real-time updates reflecting on average rating, total count, and individual star percentages.
 - **Wishlist like a pro:** Add, remove, and annotate products, remembering why you loved them with personalized notes.
 - **Effortless order management:** Create and view order history for a clear picture of your shopping journey.
@@ -34,13 +32,13 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/MdAnayatullah/eShop
 ```
 
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd eShop
 ```
 
 ### Install dependencies for frontend and backend separately
